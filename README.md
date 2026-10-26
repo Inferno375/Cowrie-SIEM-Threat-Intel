@@ -1,8 +1,6 @@
 # Cowrie-SIEM-Threat-Intel
 Live Threat Intelligence dashboard capturing real-world brute-force attacks via an AWS-hosted Cowrie SSH honeypot and New Relic SIEM.
 
-# Cowrie-SIEM-Threat-Intel
-
 ## Project Objective
 The goal of this project was to deploy an interactive SSH honeypot to capture, log, and visualize real-world brute-force attacks and malware deployment attempts in a live cloud environment.
 
